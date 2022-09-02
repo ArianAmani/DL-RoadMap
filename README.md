@@ -8,14 +8,14 @@ So if you don’t feel like this is the path for you, there are hundreds of diff
 
 There are two main points of view on learning ML and DL:
 1. Start with the code, you’ll have time to learn theoretical stuff and the math behind it later.
-**2. Start with theoretics and the math behind them, then write the code.**
+2. **Start with theoretics and the math behind them, then write the code.**
 
 
 Well, I’m a huge fan of the **second opinion** and I really don’t like the first one. But don’t get scared away, all good paths and courses come with a **balanced combination of Theoretics and Code**, and I tend to introduce them.
 
 The reason I prefer the second path is that **if you just learn to write code and don’t know what exactly is happening behind that code, you can’t actually solve problems on your own.** Say you get a task with a few problems to solve, and you need to choose a Machine Learning algorithm to tackle these problems with. All these problems are numerical and therefore need mathematical computation and solutions. You’ll face new problems that you haven’t seen before and without knowing the math and the logic behind these algorithms, you can’t choose the right solution to your problem (and of course, you can’t try them all to find which one works best).
 
-So knowing these, let’s start talking about the path itself.
+So knowing these, let’s start talking about the path itself.\
 *In most of the parts, I’ll introduce different sources based on how deep you want to get or how much time you’ve got.*
 
 **I recommend reading through to the end before getting started on any of the courses.**
@@ -35,10 +35,11 @@ As a Computer Science student myself, I was familiar with most of the math I nee
 		[Coursera Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)
 
 - ### Probability and Statistics:
-	- Fast and efficient way: 
-		You can probably learn everything you need at Khan Academy:[https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
+	- Fast and efficient way:\
+		You can probably learn everything you need at Khan Academy:\
+		[https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
 		
-	- More deep and academic way:
+	- More deep and academic way:\
 		If you would like to dive deeper into the world of probability and statistics, I’d suggest the book **“Probability and Statistics for Engineers and Scientists” by Walpole, Mayers, Ye.**
 
 
