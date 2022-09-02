@@ -60,7 +60,7 @@ Now we're getting to the fun parts.
 Again here, I'm going to recommend two courses, one easier to follow, and one more deep and academic.
 
 - **Easier to follow (Probably more popular):**
-	- [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
+	- [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)\
 		This is probably the most popular ML course on the internet and A LOT of people have started their path into ML using it. It's also the most popular and I guess the highest ranked course on Coursera (4.9/5).
 
 		This Specialization is made of 3 courses covering the main parts of Machine Learning and by the end of it, you'll have a good understanding of ML Algorithms and how to implement and use them in python.
@@ -68,7 +68,7 @@ Again here, I'm going to recommend two courses, one easier to follow, and one mo
 		You can audit the course for free, or enroll to get the certificate. Also, Coursera has this option called Financial Aid for those who can't afford the course, you can just click on the Financial Aid button and explain why you should get this course for free and in 15 days, you'll receive an email saying Congrats, you got it :)))
 
 - **More deep, academic course:**
-	- Stanford CS229 Machine Learning
+	- Stanford CS229 Machine Learning\
 		This is the Machine Learning course taught at Stanford University, recorded at the class and uploaded on YouTube.
 
 		Well, as I said before, I'm a fan of more deep academic courses and this is **THE COURSE** to go with if you're like me.
@@ -98,14 +98,14 @@ With the growth of computers and more powerful GPUs, Neural Networks began to le
 Now I'm again, going to recommend two courses, one easier to follow, and one more deep and academic.
 
 - **Easier to follow (Probably more popular):**
-	- [Deep Learning Specialization offered by DeepLearning.AI taught by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+	- [Deep Learning Specialization offered by DeepLearning.AI taught by Andrew Ng](https://www.coursera.org/specializations/deep-learning)\
 		This is a 5 course specialization, covering almost everything you need to understand Deep Learning and it's ways.
 
 		As the ML Coursera course, you can audit for free or ask for a financial aid here too.
 		I definitely recommend watching this to get started on Deep Learning if you like Coursera-like courses.
 
 - **More deep, academic course:**
-	- [Stanford CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+	- [Stanford CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)\
 		I actually started Deep Learning with this course, and I've got to say, it's THE BEST COURSE to start with if you're ok to get a little deeper into the field like me.
 
 		It is more focused on Deep Learning applications in Computer Vision, but it also covers ALL the basic and necessary aspects of Deep Learning too. So you should not worry about it being for Computer Vision at all.
@@ -124,13 +124,13 @@ Now I'm again, going to recommend two courses, one easier to follow, and one mor
 
 ## Reading Resources
 Reading is always a key to getting deeper. If you're into that, there are some books I like personally that can help you with the process:
-- [**The legendary Deep Learning book**](https://www.deeplearningbook.org/)
+- [**The legendary Deep Learning book**](https://www.deeplearningbook.org/)\
 	This book is like a legend between Deep Learning books. It covers the concepts and the math behind DL algorithms perfectly. I don't recommend starting with this book since it's really hard. But if you want to strengthen your knowledge after completing the courses above, this book is prefect.
 
-- **Hands-on machine learning with Scikit-learn Keras and TensorFlow by Aurelion Geron published by O'Reilley**
+- **Hands-on machine learning with Scikit-learn Keras and TensorFlow by Aurelion Geron published by O'Reilley**\
 	This book is an awesome resource for learning ML and DL and also learning to code and implement the algorithms. I'd recommend starting with this if you're more comfortable with books than courses.
 
-- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**Dive into Deep Learning**](https://d2l.ai/)\
 	This is an awesome reference for both getting into the math and the code for Deep Learning. It contains code examples and implementations in all popular DL frameworks (PyTorch, Tensorflow and MXNET)
 	It's available online for free and constantly updated and involves all the newest material on Deep Learning.
 	If you've got the time, I definitely suggest reading this. I'm actually starting to read it for upgrading my coding knowledge.
@@ -147,14 +147,15 @@ Something stuff would recommend:
 - [DataCamp](https://www.datacamp.com/) offers some excellent tutorials for improving your coding skills in working with datasets. I'd really suggest you check some of its courses out, specially for learning to work with tabular data and handling them. (It's not free but if you're a student with a verifiable school-issued email, you can subscribe to GitHub Student Developer Pack and get a free 2-month Data Camp account - something I did)
 
 
-I'll try to keep this Road Map updated, and I really hope it was useful to you.
-Thank you for reading through.
+---
+**I'll try to keep this Road Map updated, and I really hope it was useful to you.**\
+**Thank you for reading through.**
 
 ### About me
-I'm Arian, a Computer Science student interested in Deep Learning research, and it's application in real life problems.
+I'm Arian, a Computer Science student interested in Deep Learning research, and it's applications in real life problems.
 
 I'd be happy to answer any questions if I'm able to. Feel free to contact me on Twitter or LinkedIn.
 
-**Twitter: [twitter.com/ArianAmaani](https://twitter.com/ArianAmaani)**
-**GitHub: [github.com/ArianAmani](https://github.com/ArianAmani/)**
+**Twitter: [twitter.com/ArianAmaani](https://twitter.com/ArianAmaani)** \
+**GitHub: [github.com/ArianAmani](https://github.com/ArianAmani/)** \
 **LinkedIn: [linkedin.com/in/arianamani](https://www.linkedin.com/in/arianamani/)**
