@@ -1,6 +1,9 @@
 # Deep Learning Road Map
 ![nn](docs/nn.jpeg)
 
+
+## ***A link to this article on Medium: [A Deep Learning Road Map And Where To Start](https://medium.com/@ArianAmani/the-deep-learning-road-map-that-i-took-c29120b0f5e2)***
+
 ## Before getting started:
 Before getting started, I have to say that this is the path I took/would have taken, and it worked for me pretty well. But it sure doesn’t mean that it’ll work for everyone.
 
